@@ -16,3 +16,5 @@ this is another *paragraph*.
 
 For strike a line:
 ~~Unwanted line~~
+
+Colour code:  `#RRGGBB`
