@@ -1,5 +1,5 @@
 # Python [Selenium](https://www.selenium.dev/)
-## Programmed By : Suman Gangopadhyay
+## Programmed By : Sujitha Gandhi
 ### Language : Python
 ### Description of the Project :
 ### Date : *4-Dec-2023*
