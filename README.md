@@ -13,3 +13,6 @@ this is another *paragraph*.
 
 
 [www.guvi.in](https://www.guvi.in)
+
+For strike a line:
+~~ Unwanted line~~
